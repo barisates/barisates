@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=barisates&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisates&layout=compact)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=barisates&repo=react-translator-component)](https://github.com/barisates/react-translator-component)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=barisates&repo=react-session-api)](https://github.com/barisates/react-session-api)
 
 <!--
 **barisates/barisates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisates&layout=compact)
 
 - :computer: I’m currently working on [TRA](https://github.com/TRA-Information-Technologies "TRA")
 - :moneybag: I’m currently learning Cryptocurrency Technologies
