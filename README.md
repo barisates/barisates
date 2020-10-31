@@ -4,7 +4,7 @@
 
 #### You may be interested;
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=barisates&repo=react-translator-component)](https://github.com/barisates/react-translator-component)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=barisates&repo=rotativa-pdf-dotnet-core-docker-example)](https://github.com/barisates/rotativa-pdf-dotnet-core-docker-example)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=barisates&repo=react-session-api)](https://github.com/barisates/react-session-api)
 
 <!--
