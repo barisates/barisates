@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=barisates&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisates&layout=compact)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=barisates&repo=react-translator-component)](https://github.com/barisates/react-translator-component)
 
 <!--
 **barisates/barisates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
