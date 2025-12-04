@@ -9,7 +9,6 @@
 - 📫  How to reach [me](http://barisates.com/ "me").
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=barisates&hide_border=true&show_icons=true&custom_title=GitHub%20Stats)
 
 
 
